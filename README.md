@@ -13,6 +13,7 @@ to true in main.py
 
 ![firstExample](imgs/SecondSem.png)
 
+If you move the camera a bit you see that the scene is 3D:
 ![SecondExample](imgs/SecondSem-Tilted.png)
 
 # Requirements

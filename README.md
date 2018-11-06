@@ -1,4 +1,4 @@
-# DepthRGB
+# DepthRGB for Sytnhia
 
 This projects combines a depth image with a RGB image to create a 3D scene.
 
